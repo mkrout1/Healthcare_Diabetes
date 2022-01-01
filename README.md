@@ -20,3 +20,19 @@ Several constraints were placed on the selection of these instances from a large
 Number of Instances: 768
 Number of Attributes: 8 plus class
 For Each Attribute: (all numeric-valued)
+
+# Explorative data analysis
+All the features have no missing values.
+the distribution of all the features looks like this:-
+![histograms](images/histogram.png)
+
+# Creation of additional features
+
+https://www.medicinenet.com/what_is_a_high_insulin_level/article.htm#what_are_normal_insulin_levels  
+Based on normal insulin level (16 - 166 mIU/L) three addition class of insulin as low, normal and high were created.
+
+# Model Selection
+First I compared seven classification models to find the top three performers. 
+
+Then I tuned these best models using GridSearchCV to find the best model.
+I also compared the models before tuning and after tuning.
