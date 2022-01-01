@@ -67,3 +67,6 @@ Here is the performance of models before and after scaling the dataset.
 ![](images/Model_performance_comparison_scaling_s.png)
 From the above figure it is clear that the effect of scaling has very little effect upon the models for this dataset.
 
+# feature importance
+The following image shows feature importance of RandomForest model.
+![](images/random_forest_feature_importance.png)
