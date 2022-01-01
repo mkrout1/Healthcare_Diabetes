@@ -62,7 +62,7 @@ The following graph shows performance of these models after tuning
 looks like RandomForest is giving the best result.
 
 # Effect of scaling data set
-The range of the feature values varies a lot (the above histogram plot). Hence, it is a standard practice to scale the data between 0 and 1 for better model performance. I scaled the data using skleran RobustScaler.
+The range of the feature values varies a lot as shown in [histogram](#explorative-data-analysis). Hence, it is a standard practice to scale the data between 0 and 1 for better model performance. I scaled the data using skleran RobustScaler.
 Here is the performance of models before and after scaling the dataset.
 ![](images/Model_performance_comparison_scaling_s.png)
 From the above figure it is clear that the effect of scaling has very little effect upon the models for this dataset.
