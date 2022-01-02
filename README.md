@@ -70,3 +70,9 @@ From the above figure it is clear that the effect of scaling has very little eff
 # feature importance
 The following image shows feature importance of RandomForest model.  
 ![](images/random_forest_feature_importance.png)
+
+# Conclusion
+- After testing 7 machine learning models, I observed RandomForest model is providing the best result. 
+I'll try to make a page to deploy this model for testing.
+- Scaling this dataset has little efferct on the model performnace except SVM
+
