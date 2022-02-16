@@ -54,7 +54,7 @@ models tested:
 The following plot shows the performance of the above models prior to tuning:
 ![](images/Model_performance_before_tuning.png)
 
-I selected RandomForest, Gradient boosting Classifier and LightGMB for further tuning using GridSearchCV to find the best model.
+I selected RandomForest, Gradient boosting Classifier and LightGBM for further tuning using GridSearchCV to find the best model.
 The following graph shows performance of these models after tuning  
 ![](images/Model_performance_after_tuning.png)  
 ## Comparison of model performance before and after tuning
