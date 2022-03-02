@@ -1,6 +1,6 @@
 # HealthCare: Diabetes
 
-Application of machine learning to some publicly available healthcare data.
+To Classify whether a patient has diabetes based on some publicly available healthcare data diagnostic measurement data.
 
 This dataset is a part of original larger dataset from the National Institute of Diabetes and Digestive and Kidney Diseases.
 Here the objective is to predict whether a patient has diabetes based on diagnostic measurements
